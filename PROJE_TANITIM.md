@@ -2,6 +2,7 @@
 
 **Proje:** Görev ve Proje Yönetim Sistemi API Geliştirme Projesi
 **Eğitim:** Node.js ile Backend Programlama - Bitirme Projesi
+
 **Teknolojiler:** Node.js, Express.js, REST API, Middleware
 
 ## 1. Projenin Amacı
