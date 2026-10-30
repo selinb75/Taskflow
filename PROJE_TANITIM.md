@@ -68,4 +68,4 @@ Tüm CRUD endpoint'leri Postman üzerinde test edilmiş ve doğru çalıştığ�
 
 ## 8. Sonuç
 
-TaskFlow API'si; Node.js temelleri, Express.js ile sunucu geliştirme, routing, middleware kullanımı, CRUD operasyonları ve JSON veri yönetimi konularında kazanılan becerileri uygulamalı olarak göstermektedir.
+Bu proje kapsamında Node.js ve Express.js kullanılarak REST API mimarisinde bir görev yönetim sistemi geliştirilmiştir. Routing, middleware, CRUD operasyonları, veri doğrulama ve hata yönetimi gibi backend geliştirme süreçleri uygulamalı olarak gerçekleştirilmiştir. Postman aracılığıyla API endpoint'leri test edilerek sistemin çalışma durumu kontrol edilmiştir.
