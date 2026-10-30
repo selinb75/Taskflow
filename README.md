@@ -7,7 +7,7 @@ Node.js ve Express.js ile geliştirilmiş, REST API mantığında çalışan bir
 1. Repoyu klonlayın:
 
 ```bash
-git clone (https://github.com/selinb75/Taskflow.git)
+git clone https://github.com/selinb75/Taskflow.git
 cd Taskflow
 ```
 
