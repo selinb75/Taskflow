@@ -121,14 +121,12 @@ Her istek konsola şu formatta yazılır:
 ```
 [2026-10-26T15:00:00.000Z] GET /api/tasks - ::1
 ```
-
-## Test
-
-Tüm CRUD endpoint'leri Postman ile test edilmiştir. Ekran görüntüleri `screenshots/` klasöründedir.
-
 ## Teknolojiler
 
 Node.js, Express.js, REST API, Middleware
-#Test Videosu
+## Test
+
 https://github.com/user-attachments/assets/ab6eabed-6ea1-4446-88ea-9f4411c4d32f
+
+
 
