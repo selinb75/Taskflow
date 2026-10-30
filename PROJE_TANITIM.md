@@ -64,7 +64,7 @@ Proje `App.js` giriş dosyası, `routes/` (görev ve rapor endpoint'leri), `midd
 
 ## 7. Test
 
-Tüm CRUD endpoint'leri Postman üzerinde test edilmiş ve doğru çalıştığı doğrulanmıştır. Test ekran görüntüleri projedeki `screenshots/` klasöründe, test senaryoları ise `TEST_DOKUMANTASYONU.md` dosyasındadır.
+Tüm CRUD endpoint'leri Postman üzerinde test edilmiş ve doğru çalıştığı doğrulanmıştır.
 
 ## 8. Sonuç
 
