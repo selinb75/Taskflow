@@ -50,7 +50,7 @@ Her görev şu alanlardan oluşur:
 
 **Hata yönetimi:** Geçersiz veri için `400`, bulunamayan görev veya adres için `404` kodu ve açıklayıcı mesaj döner.
 
-## 5. Ek Özellikler (İsteğe Bağlı)
+## 5. Ek Özellikler
 
 - Filtreleme (durum, öncelik, çalışan, proje), sıralama ve sayfalama
 - Başlık ve açıklamada arama
