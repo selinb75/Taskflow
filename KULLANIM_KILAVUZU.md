@@ -1,6 +1,5 @@
 # TaskFlow API Kullanım Kılavuzu
 
-Bu kılavuz, TaskFlow API'sinin nasıl çalıştırılacağını ve nasıl kullanılacağını adım adım anlatır. Her endpoint'in ayrıntılı açıklaması için `API_DOKUMANTASYONU.md` dosyasına bakılabilir.
 
 ## 1. Sunucuyu Çalıştırma
 
