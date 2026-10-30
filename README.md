@@ -1,3 +1,6 @@
+
+
+
 # TASKFLOW - Görev ve Proje Yönetim Sistemi API
 
 Node.js ve Express.js ile geliştirilmiş, REST API mantığında çalışan bir görev yönetim sistemidir. Görev ekleme, listeleme, detay görüntüleme, güncelleme ve silme (CRUD) işlemlerini destekler. Tüm istekler bir logger middleware ile konsola kaydedilir. Veriler bellekte (in-memory) tutulur, sunucu yeniden başlatılınca başlangıç verilerine döner.
@@ -126,3 +129,6 @@ Tüm CRUD endpoint'leri Postman ile test edilmiştir. Ekran görüntüleri `scre
 ## Teknolojiler
 
 Node.js, Express.js, REST API, Middleware
+#Test Videosu
+https://github.com/user-attachments/assets/ab6eabed-6ea1-4446-88ea-9f4411c4d32f
+
