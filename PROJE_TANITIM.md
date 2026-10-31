@@ -60,7 +60,7 @@ Her görev şu alanlardan oluşur:
 
 ## 6. Proje Yapısı
 
-Proje `App.js` giriş dosyası, `routes/` (görev ve rapor endpoint'leri), `middleware/` (logger ve doğrulama) ile `data/` (örnek veriler) klasörlerinden oluşur. Bu yapı, kodun düzenli ve bakımı kolay olmasını sağlar.
+Proje `App.js` giriş dosyası, `routes/` (görev ve rapor endpoint'leri), `middleware/` (logger ve doğrulama) ile `İnitialData/` (örnek veriler) klasörlerinden oluşur. Bu yapı, kodun düzenli ve bakımı kolay olmasını sağlar.
 
 ## 7. Test
 
